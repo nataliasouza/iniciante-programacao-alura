@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Formação Front-end&message=ALURA&color=115EBC&style=for-the-badge"/>
 
-:spiral_calendar: Atualizado em 04 de fevereiro de 2023
+:spiral_calendar: Atualizado em 05 de fevereiro de 2023
 
 :construction: O projeto está em desenvolvimento :construction:<br>
 
@@ -53,10 +53,14 @@ https://cursos.alura.com.br/course/pong-javascript
 https://cursos.alura.com.br/course/javascript-listas-lacos
 ```
 
-3. 1 Exercício do curso no P5.js :warning: Estou aqui! :warning:
+3. 1 Exercício do curso no P5.js - [concluído]
 ```bash
 https://editor.p5js.org/nataliasouza/sketches/KioVTeU9z
 ```
+##### GIF do Jogo Freeway que foi criado no curso.
+
+![freeway](https://user-images.githubusercontent.com/13735095/216851749-f5d9e1f2-f154-42c3-9c49-35fcf38f4928.gif)
+<br>
 
 4. Como escolher minha carreira em TI?
 ```bash
@@ -77,12 +81,12 @@ https://cursos.alura.com.br/extra/alura-mais/qual-e-a-diferenca-entre-back-end-e
 <details>
   <summary> <b> Detalhamento das atividades </b> <i>(clique na setinha!)</i> </summary><br>
 
-1. Trabalhando com caminhos e pastas no terminal
+1. Trabalhando com caminhos e pastas no terminal 
 ```bash
 https://www.alura.com.br/artigos/trabalhando-com-caminhos-e-pastas-no-terminal
 ```
 
-2. Arquitetura de computadores: por trás de como seu programa funciona
+2. Arquitetura de computadores: por trás de como seu programa funciona :warning: Estou aqui! :warning:
 ```bash
 https://cursos.alura.com.br/course/arquitetura-computadores-funcionamento-programa
 ```
