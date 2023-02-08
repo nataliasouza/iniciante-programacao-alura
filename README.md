@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Formação Front-end&message=ALURA&color=115EBC&style=for-the-badge"/>
 
-:spiral_calendar: Atualizado em 05 de fevereiro de 2023
+:spiral_calendar: Atualizado em 08 de fevereiro de 2023
 
 :construction: O projeto está em desenvolvimento :construction:<br>
 
@@ -86,12 +86,12 @@ https://cursos.alura.com.br/extra/alura-mais/qual-e-a-diferenca-entre-back-end-e
 https://www.alura.com.br/artigos/trabalhando-com-caminhos-e-pastas-no-terminal
 ```
 
-2. Arquitetura de computadores: por trás de como seu programa funciona :warning: Estou aqui! :warning:
+2. Arquitetura de computadores: por trás de como seu programa funciona 
 ```bash
 https://cursos.alura.com.br/course/arquitetura-computadores-funcionamento-programa
 ```
 
-3. Linux I: conhecendo e utilizando o terminal
+3. Linux I: conhecendo e utilizando o terminal :warning: Estou aqui! :warning:
 ```bash
 https://cursos.alura.com.br/course/linux-ubuntu
 ```
@@ -106,28 +106,44 @@ https://cursos.alura.com.br/course/linux-ubuntu
 
 <details>
   <summary> <b> Detalhamento das atividades </b> <i>(clique na setinha!)</i> </summary><br>
+  
+##### Repositório do código criado nesse curso
 
+> Prática do curso HTML5 e CSS3 - Partes 1,2 e 3. Versão alterada do curso
+```bash
+https://github.com/nataliasouza/formacao-frontEnd/tree/novaVersao
+```
+<br>
+  
 1. HTML, CSS e Javascript, quais as diferenças?
 ```bash
 https://www.alura.com.br/artigos/html-css-e-js-definicoes
 ```
-
-2. Pratica do curso HTML5 e CSS3 - Partes 1,2,3 e 4. Versão alterada do curso
+2. HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 ```bash
-https://github.com/nataliasouza/formacao-frontEnd/tree/novaVersao
+https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags
 ```
-
-3. Centralizando um elemento com CSS
+  
+3. HTML e CSS: cabeçalho, footer e variáveis CSS
+```bash
+https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css
+```
+  
+4. HTML e CSS: trabalhando com responsividade e publicação de projetos
+```bash
+https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos
+```  
+  
+5. Centralizando um elemento com CSS
 ```bash
 https://www.alura.com.br/artigos/centralizando-elementos-com-css
 ```
 
-4. Guia de Unidades no CSS
+6. Guia de Unidades no CSS
 ```bash
 https://www.alura.com.br/artigos/guia-de-unidades-no-css
 ```
-
-5. CSS: Cansei de Ser Simples
+7. CSS: Cansei de Ser Simples
 ```bash
 https://cursos.alura.com.br/extra/hipsterstech/css-cansei-de-ser-simples-hipsters-09-a577
 ```
