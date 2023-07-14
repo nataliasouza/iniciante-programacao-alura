@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Formação Front-end&message=ALURA&color=115EBC&style=for-the-badge"/>
 
-:spiral_calendar: Atualizado em 08 de fevereiro de 2023
+:spiral_calendar: Atualizado em 14 de julho de 2023
 
 :construction: O projeto está em desenvolvimento :construction:<br>
 
@@ -14,7 +14,7 @@ https://cursos.alura.com.br/formacao-programacao
 ```
 <br>
 
-## Módulo 1 - Introdução
+## Introdução
 ##### DESCRIÇÃO:
 > Boas vindas à Formação de Iniciante em Programação, para sanar algumas possíveis dúvidas sobre a formação, 
 assista o vídeo de introdução que preparamos para você!
@@ -29,7 +29,7 @@ https://youtu.be/oD3br238S6g
 </details>
 <br>
 
-## Módulo 2 - Aprender a lógica de programação
+## Módulo 1 - Aprender a lógica de programação
 ##### DESCRIÇÃO:
 >O raciocínio lógico nos acompanha o tempo todo. Por exemplo, para fazer café, precisamos primeiro aquecer a água, depois despejarmos ela quente sobre o pó de café, assim o pó será coado e o café estará pronto para beber. Caso não siga sequência lógica, vai ser difícil saborear um bom café.
 
@@ -74,7 +74,7 @@ https://cursos.alura.com.br/extra/alura-mais/qual-e-a-diferenca-entre-back-end-e
 </details>
 <br>
 
-## Módulo 3 - Conhecer o Sistema Operacional
+## Módulo 2 - Conhecer o Sistema Operacional
 ##### DESCRIÇÃO:
 > Agora que você molhou os pés no mundo da programação e dos códigos, é importante que você conheça como o computador funciona e como ele interpreta os códigos que criamos. Isso porque, todo código que criamos será executado por uma máquina, então saber como elas funcionam nos ajuda a entender melhor os problemas comuns que toda pessoa na área de tecnologia precisa resolver diariamente.
 
@@ -98,7 +98,7 @@ https://cursos.alura.com.br/course/linux-ubuntu
 </details>
 <br>
 
-## Módulo 4 - Criar suas primeiras páginas web
+## Módulo 3 - Criar suas primeiras páginas web
 ##### DESCRIÇÃO:
 >Nossa, esse mergulho foi fundo! Aprendemos muito sobre como o código é interpretado e executado pelo computador. Já que aprendemos tudo isso, vamos aprender a última peça que falta para criarmos uma página web?
 
@@ -150,7 +150,7 @@ https://cursos.alura.com.br/extra/hipsterstech/css-cansei-de-ser-simples-hipster
 </details>
 <br>
 
-## Módulo 5 - Ganhar experiência com JavaScript e conhecer o Git
+## Módulo 4 - Ganhar experiência com JavaScript e conhecer o Git
 ##### DESCRIÇÃO:
 >Chegou o momento de juntarmos tudo que aprendemos até agora e montarmos uma página web dinâmica, utilizando HTML e CSS para a criação de elementos gráficos, junto com o JavaScript para a manipulação dos componentes da página, permitindo modificação e interação.
 
@@ -166,7 +166,7 @@ https://cursos.alura.com.br/extra/hipsterstech/css-cansei-de-ser-simples-hipster
 https://cursos.alura.com.br/extra/alura-mais/emmet-instalacao-e-comandos-no-atom-c311
 ```
 
-2. JavaScript para Web: Crie páginas dinâmicas
+2. JavaScript para Web: Crie páginas dinâmicas :construction: Em construção :construction:
 ```bash
 https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas
 ```
@@ -198,7 +198,7 @@ https://www.youtube.com/watch?v=wUX-tRMynHE&t=5s
 </details>
 <br>
  
- ## Módulo 6 - Hora de praticar
+ ## Módulo 5 - Hora de praticar
 ##### DESCRIÇÃO:
 >Chegou o momento de colocarmos em prática tudo que você viu nessa formação. Montar o seu portfólio e fixar todo o conhecimento que adquiriu com os professores e professoras da Alura. Nesse próximo passo você encontrará uma atividade do #7DaysOfCode que foi pensada por pessoas do mercado para que você resolva desafios comuns em qualquer empresa que trabalha com tecnologia. 
  
