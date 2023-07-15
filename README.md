@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Formação Front-end&message=ALURA&color=115EBC&style=for-the-badge"/>
 
-:spiral_calendar: Atualizado em 14 de julho de 2023
+:spiral_calendar: Atualizado em 15 de julho de 2023.
 
 :construction: O projeto está em desenvolvimento :construction:<br>
 
@@ -53,7 +53,7 @@ https://cursos.alura.com.br/course/pong-javascript
 https://cursos.alura.com.br/course/javascript-listas-lacos
 ```
 
-3. 1 Exercício do curso no P5.js - [concluído]
+3. 1 Exercício do curso no P5.js 
 ```bash
 https://editor.p5js.org/nataliasouza/sketches/KioVTeU9z
 ```
@@ -91,7 +91,7 @@ https://www.alura.com.br/artigos/trabalhando-com-caminhos-e-pastas-no-terminal
 https://cursos.alura.com.br/course/arquitetura-computadores-funcionamento-programa
 ```
 
-3. Linux I: conhecendo e utilizando o terminal :warning: Estou aqui! :warning:
+3. Linux I: conhecendo e utilizando o terminal 
 ```bash
 https://cursos.alura.com.br/course/linux-ubuntu
 ```
@@ -166,7 +166,8 @@ https://cursos.alura.com.br/extra/hipsterstech/css-cansei-de-ser-simples-hipster
 https://cursos.alura.com.br/extra/alura-mais/emmet-instalacao-e-comandos-no-atom-c311
 ```
 
-2. JavaScript para Web: Crie páginas dinâmicas :construction: Em construção :construction:
+2. JavaScript para Web: Crie páginas dinâmicas
+###### *Branch Master ou Branch alura-midi*
 ```bash
 https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas
 ```
